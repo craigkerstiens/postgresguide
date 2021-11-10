@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Postgres Guide"
+---
+
+
 Postgres Guide
 ==============
 
