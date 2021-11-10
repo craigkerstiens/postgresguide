@@ -4,9 +4,6 @@ title: "Postgres Guide"
 ---
 
 
-Postgres Guide
-==============
-
 We here are very big fans of Postgres as a database and believe it is often the best database for the job. For many though, working with and maintaining Postgres involves a steep learning curve. This guide is designed as an aid for beginners and experienced users to find specific tips and explore tools available within Postgres. 
 
 If you want to take the quick & painless approach instead, there are great services available for Postgres hosting. In particular if you're need of a good provider with quality price/performance, deep Postgres expertise, and quality support consider reaching out to [Crunchy Data](https://www.crunchydata.com)
